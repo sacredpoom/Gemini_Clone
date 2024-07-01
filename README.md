@@ -16,6 +16,10 @@ This project aims to replicate the intuitive and dynamic features of Gemini usin
 
 By simulating Gemini's functionality, this project provides a hands-on opportunity to delve into advanced frontend techniques while understanding the complexities of integrating external APIs in web applications.
 
+
+![chrome_U6ZmmCe74A](https://github.com/sacredpoom/Gemini_Clone/assets/20672168/6b63eef0-0527-42b6-94d3-37c84daa48d3)
+
+
 ![Gemini-like homescreen](https://github.com/sacredpoom/Gemini_Clone/assets/20672168/eddab220-4c52-4a36-a7d0-2570097d4176)
 
 ## Features
